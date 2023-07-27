@@ -1,0 +1,2 @@
+# JSARRAYMethods
+lastIndexOf()
